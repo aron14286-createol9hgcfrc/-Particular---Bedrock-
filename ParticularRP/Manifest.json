@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Particular RP",
+    "description": "Atmospheric visuals for fireflies and rain ripples",
+    "uuid": "d1a5c3e7-b9f2-4a1d-8e4c-6f3b7a9d0e2f",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0],
+    "pack_scope": "world"
+  },
+  "modules": [
+    {
+      "description": "Particular Resource Module",
+      "type": "resources",
+      "uuid": "e2f3d4c5-b6a7-4918-bc9d-0e1f2a3b4c5d",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["YourName"],
+    "license": "MIT"
+  }
+}
